@@ -23,11 +23,10 @@ If you find this project useful for your research, please consider citing it:
 
 ## 🧭 Visual Overview
 
-<p align="center">
-  <img src="Parachute_system.gif" alt="Design Optimal Aluminium-Air-Battery." width="900"/>
-  <br/>
-  <em>Design Optimal Aluminium-Air-Battery.</em>
-</p>
+<div align="center">
+  <img src="Parachute_system.gif" width="900">
+  <p><em>Design Optimal Aluminium-Air-Battery.</em></p>
+</div>
 
 ## 📜 License
 
